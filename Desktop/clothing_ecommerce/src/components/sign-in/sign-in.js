@@ -27,8 +27,6 @@ export class SignIn extends Component {
         }
     }
 
-        
-
     handleChange = event => {
         const {value, name} = event.target
 
